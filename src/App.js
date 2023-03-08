@@ -1,4 +1,4 @@
-import "./App.css";
+
 import NewExpense from "./component/NewExpense/NewExpense";
 import Expenses from "./component/Expenses/Expenses";
 import { useState } from "react";
